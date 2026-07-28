@@ -1,6 +1,7 @@
-hive-1.1
+hive-1.2
 hive_1.bin
 hive_2.bin
 hive_3.bin
 hive_4.bin
 hive_5.bin
+hive_6.bin
