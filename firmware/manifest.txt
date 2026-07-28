@@ -2,3 +2,6 @@
 fw_master_1.bin
 fw_master_2.bin
 fw_master_3.bin
+fw_master_4.bin
+fw_master_5.bin
+fw_master_6.bin
